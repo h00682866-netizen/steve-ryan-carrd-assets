@@ -1,0 +1,5 @@
+/* Final Carrd Home refinements: field labels, mail icon and page-background continuity. */
+html,body{background:#080808!important}body:has(#sr-home-frontend),body:has(#sr-home-frontend) .site-wrapper,body:has(#sr-home-frontend) .site-main{background:#080808!important}
+#sr-home-frontend .srh-mail{display:block!important;width:38px!important;height:28px!important;margin-bottom:14px!important;border:0!important;position:relative!important}
+#sr-home-frontend .srh-mail:after{display:none!important}
+#sr-home-frontend .srh-mail svg{display:block!important;width:38px!important;height:28px!important;fill:none!important;stroke:#1487e8!important;stroke-width:2!important;stroke-linecap:round!important;stroke-linejoin:round!important}
